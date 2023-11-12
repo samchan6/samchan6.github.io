@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/samchan6/samchan6.github.io/react-tutorial/static/css/main.1327b5d0.css",
+    "main.js": "/samchan6/samchan6.github.io/react-tutorial/static/js/main.a6453841.js",
+    "index.html": "/samchan6/samchan6.github.io/react-tutorial/index.html",
+    "main.1327b5d0.css.map": "/samchan6/samchan6.github.io/react-tutorial/static/css/main.1327b5d0.css.map",
+    "main.a6453841.js.map": "/samchan6/samchan6.github.io/react-tutorial/static/js/main.a6453841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1327b5d0.css",
+    "static/js/main.a6453841.js"
+  ]
+}
